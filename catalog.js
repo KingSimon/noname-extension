@@ -75,6 +75,7 @@ extension["文武英杰"]={
 		"wwyj_zhongchengpantu.jpg","wwyj_zhongchengpantu.mp3","wwyj_zhugejun.jpg","wwyj_zhugejun.mp3",
 		"wwyj_zhulinqixian.jpg","wwyj_zhulinqixian.mp3","wwyj_zhushan1.mp3","wwyj_ziyage.jpg",
 		"wwyj_ziyage.mp3"
+		]
 };
 
 extension["群英会"]={
